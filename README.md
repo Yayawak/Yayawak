@@ -14,6 +14,9 @@
 - 📫 How to reach me **apisitthaweboon@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/Yayawak/Portfolio/blob/master/Resume.pdf" target="blank">Resume</a>
+
+- 🔥 Read my portfolio here <a href="https://yayawak.github.io/Portfolio/" target="blank">My Portfolio</a>
+
 <br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
