@@ -24,7 +24,7 @@
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/apisit-thaweboon-b292b7248">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Yayawak">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
     </a>
   </div>
@@ -53,9 +53,15 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ---
+
+
+<p align="center">
+<a href="https://github.com/Yayawak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yayawak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yayawak&layout=compact&langs_count=16&theme=algolia"/>
+</a>
+</p>
 
 
 *"Building software that scales, solves real-world problems, and creates meaningful user experiences."*
