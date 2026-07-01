@@ -116,7 +116,7 @@ A web platform powered by modern AI models.
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact"/>
+  <img height="170em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TevesManuel&layout=compact&langs_count=10&theme=algolia&hide=css,html)"/>
 </p>
 
 ---
